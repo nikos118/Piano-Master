@@ -15,7 +15,9 @@ https://user-images.githubusercontent.com/121593919/210706239-c671952c-b1a8-432f
 
 In order for the program to function as it should without needing to change any of the code, It is reccomended the user sports a 2560x1440 pixel monitor. The use of the Chrome Browser is also reccomended, with a zoom of 100 percent in the browser settings.
 
-Failure to meet these prerequisite settings may comprimise the functionality of this program, since vision based programs percieve the data given to them, and this program was meant to percieve the data in the format above. Please take note this program was coded in Python 3.10.
+Failure to meet these prerequisite settings may comprimise the functionality of this program, since vision based programs percieve the data given to them, and this program was meant to percieve the data in the format above. 
+
+Additionally, please take note this program was coded in Python 3.10.
 
 ## Instructions for Use
 
